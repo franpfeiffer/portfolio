@@ -1,2 +1,2 @@
 # portfolio
-A personal portfolio made by me
+A website made by me that works as my personal portfolio
