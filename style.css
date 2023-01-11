@@ -103,6 +103,7 @@ nav ul li a:hover::after{
 
 .aboutCol2{
     flex-basis: 60%;
+    text-align: justify;
 }
 
 .subTitle {
@@ -241,6 +242,7 @@ nav ul li a:hover::after{
     margin-top: 50px;
     margin-right: 85px;
     margin-left: 85px;
+    text-align: justify;
 }
 
 .work:hover {
@@ -278,7 +280,7 @@ nav ul li a:hover::after{
 }
 
 .contactRight {
-    flex-basis: 60%;
+    flex-basis: 55%;
 }
 
 .contactLeft p {
@@ -335,16 +337,17 @@ nav ul li a:hover::after{
 }
 
 .contactRight form {
-    width: 100%;
+    width: 75%;
+    padding-top: 20px;
 }
 
 form input, form textarea {
-    width: 70%;
+    width: 100%;
     border: 0;
     outline: none;
     background: #262626;
-    padding: 15px;
-    margin: 15px 0;
+    padding: 15px ;
+    margin: 10px 0;
     color: #fff;
     font-size: 18px;
     border-radius: 5px;
@@ -484,6 +487,8 @@ nav .fa-solid{
     .contactRight {
         margin-right: -90px;
     }
+
+
 
     .copyright{
         font-size: 14px;
