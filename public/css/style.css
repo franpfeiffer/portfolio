@@ -497,6 +497,13 @@ nav .fa-solid{
     .btn2{
         margin-bottom: 10px;
     }
+
+    #msg{
+        color: #61b752;
+        font-size: 14px;
+        padding-top: 50px;
+        display: block;
+    }
 }
 
 /*---------------other-------------------*/
